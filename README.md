@@ -1,0 +1,1 @@
+apenas para fins de estudos de Git
